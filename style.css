@@ -1,0 +1,33 @@
+h1{
+   color: #B4846C;
+   text-shadow: 1px 1px 2px rgb(156, 86, 45),
+                1px 1px 2px;  
+  }
+#main{
+       color:#B4846C;
+    }
+.note{
+       text-align-last: center;
+     }
+h3{
+   color:#B05B3B;
+  }
+h3{
+    text-align-last: center;
+  }
+p{
+    color:#8E806A;
+}
+li{
+    color:#865439;
+}
+h4{
+    color: #AA4A30;
+}
+img{
+    display:block;
+    margin: 0 auto;
+   } 
+*{
+    font-family:cursive;
+}   
